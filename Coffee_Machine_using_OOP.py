@@ -1,6 +1,6 @@
-from menu import Menu
-from coffee_maker import CoffeeMaker
-from money_machine import MoneyMachine
+from supplements.menu import Menu
+from supplements.coffee_maker import CoffeeMaker
+from supplements.money_machine import MoneyMachine
 
 money_machine = MoneyMachine()
 coffee_maker = CoffeeMaker()
